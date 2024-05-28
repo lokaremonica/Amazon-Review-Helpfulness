@@ -38,25 +38,25 @@ Another approach we explored was to use sample weights to offset the imbalance i
 
 # File Structure
 
-`DataCollection_Amazon_Review.ipynb` : This file contains the details of the conversion of JSON data to CSV for each category
+`ipynb/DataCollection_Amazon_Review.ipynb` : This file contains the details of the conversion of JSON data to CSV for each category
 
-`Appliances_Textmining_Modeling_Final` : This file contains the Data preprocessing, data transformation, and modeling for appliances category
+`ipynb/Appliances_Textmining_Modeling_Final` : This file contains the Data preprocessing, data transformation, and modeling for appliances category
 
-`Automotive_Textmining_Modeling_Final.ipynb` : This file contains the Data preprocessing, data transformation, and modeling for automotive category
+`ipynb/Automotive_Textmining_Modeling_Final.ipynb` : This file contains the Data preprocessing, data transformation, and modeling for automotive category
 
-`Cellphone_and_Accessories_Textmining_Modeling_Final.ipynb` : This file contains the Data preprocessing, data transformation, and modeling for cellphones & accesories category
+`ipynb/Cellphone_and_Accessories_Textmining_Modeling_Final.ipynb` : This file contains the Data preprocessing, data transformation, and modeling for cellphones & accesories category
 
-`Tools_SuperSet_Textmining_Modeling_Final.ipynb` : This file contains the Data preprocessing, data transformation, and modeling for tools & home improvement category
+`ipynb/Tools_SuperSet_Textmining_Modeling_Final.ipynb` : This file contains the Data preprocessing, data transformation, and modeling for tools & home improvement category
 
-`Appliances_Pickle_Files.zip` : Pickle files for appliances category
+`Appliances pickle files/Appliances_Pickle_Files.zip` : Pickle files for appliances category
 
-`Automotive_Pickle_Files.zip` : Pickle files for automotive category
+`Automotive pickle files/Automotive_Pickle_Files.zip` : Pickle files for automotive category
 
-`Cellphone_Pickle_Files.zip` : Pickle files for cellphone and accessories category
+`Cellphones pickle files/Cellphone_Pickle_Files.zip` : Pickle files for cellphone and accessories category
 
-`Tools_SuperSet_Modeling_pickles.zip` : Pickle files for tools and home improvement category
+`Tools pickle files/Tools_SuperSet_Modeling_pickles.zip` : Pickle files for tools and home improvement category
 
-`Demo_file_all_categories.ipynb` : This is a demo file to run the models using pickle files
+`ipynb/Demo_file_all_categories.ipynb` : This is a demo file to run the models using pickle files
 
 
 # Contact Information
